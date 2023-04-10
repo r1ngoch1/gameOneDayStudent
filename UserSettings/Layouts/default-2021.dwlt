@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -392,28 +392,27 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300008a5f00008e5f0000545d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: NewBehaviourScript
-      m_OriginalName: NewBehaviourScript
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
-        x: 164
-        y: 75
-        width: 71
-        height: 14
-      m_UserData: 2147483646
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
       m_IsWaitingForDelay: 0
-      m_IsRenaming: 1
-      m_OriginalEventType: 7
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
-      m_InstanceID: 2147483646
-      m_Path: Assets/Scripts/NewBehaviourScript.cs
-      m_Icon: {fileID: -8204150473280056172, guid: 0000000000000000d000000000000000, type: 0}
-      m_ResourceFile: C:/Program Files/Unity/Hub/Editor/2021.3.22f1/Editor/Data/Resources/ScriptTemplates/81-C#
-        Script-NewBehaviourScript.cs.txt
-    m_NewAssetIndexInList: 2
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
@@ -492,9 +491,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 2cfbffff
+      m_SelectedIDs: c4f9ffff
+      m_LastClickedID: -1596
+      m_ExpandedIDs: 2cfbffff7e5d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -799,9 +798,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.021241, y: 0.7894966, z: 0.1540299}
+    m_Target: {x: -4.0340767, y: 0.6688027, z: 0.14870845}
     speed: 2
-    m_Value: {x: -3.7265346, y: 0.7548467, z: 0.15225364}
+    m_Value: {x: -4.0340767, y: 0.6688027, z: 0.14870845}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -852,9 +851,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.7696269
+    m_Target: 4.30177
     speed: 2
-    m_Value: 3.9472532
+    m_Value: 4.30177
   m_Ortho:
     m_Target: 1
     speed: 2
